@@ -1,7 +1,7 @@
 HI!! ^^
 
-Execute .\main in your terminal.
+Run .\main in your terminal.
 
-Put whatever you want.
+Type whatever you want.
 
-The output will be a summary of the topic and another things like tools used or sources consulted.
+The output will be a summary of the topic and another info, such as tools used or the sources consulted.
