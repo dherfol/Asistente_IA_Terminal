@@ -1,0 +1,38 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Entorno virtual
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configs locales
+*.env
+.env
+
+# Paquetes instalados
+pip-wheel-metadata/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Tests / cobertura / cachés
+htmlcov/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+*.cover
+nosetests.xml
+coverage.xml        
